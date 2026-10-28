@@ -1,0 +1,13 @@
+# Names/brands that should never count as 'not English'. One per line, lowercase.
+chachar
+lahore
+karachi
+islamabad
+pakistan
+foxcomputers
+whatsapp
+youtube
+facebook
+tiktok
+sindh
+punjab
